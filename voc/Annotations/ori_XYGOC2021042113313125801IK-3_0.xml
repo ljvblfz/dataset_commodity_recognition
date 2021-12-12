@@ -1,0 +1,27 @@
+<annotation>
+  <folder>1</folder>
+  <filename>ori_XYGOC2021042113313125801IK-3_0.jpg</filename>
+  <source>
+    <database>CKdemo</database>
+    <annotation>VOC</annotation>
+    <image>CK</image>
+  </source>
+  <size>
+    <width>960</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>yezhi</name>
+    <pose/>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>205</xmin>
+      <ymin>565</ymin>
+      <xmax>281</xmax>
+      <ymax>643</ymax>
+    </bndbox>
+  </object>
+</annotation>

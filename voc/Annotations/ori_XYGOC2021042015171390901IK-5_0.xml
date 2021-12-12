@@ -1,0 +1,27 @@
+<annotation>
+  <folder>1</folder>
+  <filename>ori_XYGOC2021042015171390901IK-5_0.jpg</filename>
+  <source>
+    <database>CKdemo</database>
+    <annotation>VOC</annotation>
+    <image>CK</image>
+  </source>
+  <size>
+    <width>960</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>xuebi-b</name>
+    <pose/>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>175</xmin>
+      <ymin>133</ymin>
+      <xmax>286</xmax>
+      <ymax>242</ymax>
+    </bndbox>
+  </object>
+</annotation>

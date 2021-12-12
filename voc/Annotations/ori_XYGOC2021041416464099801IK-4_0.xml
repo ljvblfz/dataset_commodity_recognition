@@ -1,0 +1,27 @@
+<annotation>
+  <folder>1</folder>
+  <filename>ori_XYGOC2021041416464099801IK-4_0.jpg</filename>
+  <source>
+    <database>CKdemo</database>
+    <annotation>VOC</annotation>
+    <image>CK</image>
+  </source>
+  <size>
+    <width>960</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>mangguoxiaolao</name>
+    <pose/>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>228</xmin>
+      <ymin>219</ymin>
+      <xmax>285</xmax>
+      <ymax>289</ymax>
+    </bndbox>
+  </object>
+</annotation>
